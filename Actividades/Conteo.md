@@ -4,7 +4,7 @@ Usando los conceptos aprendidos en clase y usando como referencia el artículo a
 
 ## Toma de datos
 
-Ingresando en el horario de clase a la página : [Contador Geiger](https://luiferg59.firstcloudit.com/arduinogeiger/), tome datos de la radiación usando el set-up remoto durante 30 minutos. Este envia muestras cada 10 s.
+Ingresando en el horario de clase a la página : [Contador Geiger](https://luramire.github.io/GeigerCounter.io/), tome datos de la radiación usando el set-up remoto durante 30 minutos. Este envia muestras cada 10 s.
 
 > Recuerde que la página debe estar en **todo momento abierta** durante la toma de datos, de lo contrario se reiniciará el conteo de datos.
 > Los datos $n$ mostrados en la página hacen referencia al total de cuentas hasta el momento, para saber cuantas llegaron en el intervalo $i$ es necesario hacer la diferencia entre $n_{i+1}-n_i$.
